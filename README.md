@@ -1,7 +1,6 @@
 Aqui está o texto atualizado para um projeto que utiliza a API Dolphin Anti e o Puppeteer em um projeto Electron:
 
-![Texto Alternativo](https://github.com/manassesCahunda/Pixier/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20183537.png)
-![Texto Alternativo](https://github.com/manassesCahunda/Pixier/blob/main/Captura%20de%20ecr%C3%A3%202024-08-11%20183626.png)
+![Texto Alternativo](https://github.com/manassesCahunda/Pixier/blob/main/imagem.png)
 
 ---
 
